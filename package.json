@@ -37,5 +37,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "- css provided (global styles, styled components)\r - folders/files already setup\r - all imports included (warnings)\r - index.js for easier imports",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victory-nwawunze/react-search-github-users.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victory-nwawunze/react-search-github-users/issues"
+  },
+  "homepage": "https://github.com/victory-nwawunze/react-search-github-users#readme"
 }

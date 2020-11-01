@@ -11,7 +11,7 @@ const Dashboard = () => {
       <main>
         <Navbar />
         <Search />
-        <img src={loadingImage} className="loading-img" />
+        <img src={loadingImage} className="loading-img" alt="Spinner" />
       </main>
     );
   }
